@@ -21,14 +21,6 @@
 
 <br />
 
-<sub>· · · ✿ · · ·</sub>
-
-<br />
-
-<sub>say hi</sub> **yechancho** <sub>@ npm</sub>
-
-<br />
-
 <sub>✿ run in terminal</sub>
 
 ```bash
