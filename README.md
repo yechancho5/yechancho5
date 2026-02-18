@@ -53,8 +53,3 @@ trying to build cool stuff and look for an internship
 
 ```bash
 npx @yechancho/terminal-card
-
-<!---
-yechancho5/yechancho5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
