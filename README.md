@@ -9,9 +9,13 @@
    ╚═╝   ╚══════╝ ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
 </pre>
 
-**hi, i'm yechan** — i build things · full-stack · systems
+**hi, i'm yechan**
 
-<sub>✿ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ✿</sub>
+<br />
+
+[![i build things](https://img.shields.io/badge/✨_i_build_things-FFB7C5?style=for-the-badge)](.)
+[![full‑stack](https://img.shields.io/badge/full--stack-FFD7E5?style=for-the-badge)](.)
+[![systems](https://img.shields.io/badge/systems-C7A2FF?style=for-the-badge)](.)
 
 <br />
 
@@ -20,20 +24,21 @@
 
 <br />
 
-<strong>now</strong> · building and looking for an internship 🌸
+[![now](https://img.shields.io/badge/now-FF6FAE?style=for-the-badge)](.)
+[![building and looking for an internship](https://img.shields.io/badge/building_and_looking_for_an_internship-8CFFDB?style=for-the-badge)](.)
 
-<sub>✿ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ✿</sub>
+<br />
+
+[![say hi](https://img.shields.io/badge/say_hi-yechancho_@_npm-FFD7E5?style=for-the-badge)](https://www.npmjs.com/package/yechancho)
 
 <br />
 
-<sub>say hi</sub> **yechancho** <sub>@ npm</sub>
-
-<br />
+[![npx yechancho](https://img.shields.io/badge/npx-yechancho-FFB7C5?style=for-the-badge)](https://www.npmjs.com/package/yechancho)
 
 ```bash
 npx yechancho
 ```
 
-<sub>❀ · ✿ · ❀</sub>
+<sub>🌸 ✿ ❀</sub>
 
 </div>
