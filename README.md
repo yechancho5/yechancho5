@@ -12,22 +12,12 @@
 ### hi, i'm yechan
 *i build things* · full-stack · systems
 
-<br />
-
-<sub>· · · ✿ · · ·</sub>
-
-<br />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-yechancho5-FFB7C5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yechancho5)
 [![GitHub](https://img.shields.io/badge/GitHub-yechancho5-FFD7E5?style=for-the-badge&logo=github&logoColor=333)](https://github.com/yechancho5)
 
-<br />
 
-<sub>· · · ✿ · · ·</sub>
-
-<br />
-
-> **now** · building and looking for an internship 🌸
+> **now** · building and looking for an internship 
 
 <br />
 
@@ -45,8 +35,3 @@
 npx yechancho
 ```
 
-<br />
-
-<sub>🌸 ✿ ❀</sub>
-
-</div>
