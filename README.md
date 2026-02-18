@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <code>npx @yechancho/terminal-card</code>
+  <code>npx yechancho</code>
 </p>
 
 <p align="center">
@@ -52,4 +52,4 @@ trying to build cool stuff and look for an internship
 ## ✿ terminal experience
 
 ```bash
-npx @yechancho/terminal-card
+npx yechancho
