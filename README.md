@@ -9,47 +9,31 @@
    ╚═╝   ╚══════╝ ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
 </pre>
 
-</div>
+**hi, i'm yechan** — i build things · full-stack · systems
 
+<sub>✿ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ✿</sub>
 
-<p align="center">
-  run my terminal card:
-</p>
+<br />
 
-<p align="center">
-  <code>npx yechancho</code>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-yechancho5-FFB7C5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yechancho5)
+[![GitHub](https://img.shields.io/badge/GitHub-yechancho5-FFD7E5?style=for-the-badge&logo=github&logoColor=333)](https://github.com/yechancho5)
 
-<p align="center">
-  ✿ best viewed in your terminal ✿
-</p>
+<br />
 
----
+<strong>now</strong> · building and looking for an internship 🌸
 
-## ✿ about
+<sub>✿ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ✿</sub>
 
-hi, i'm **yechan** —  
-i build useful things and care a lot about shipping fast and clean.
+<br />
 
-i like:
-- building full-stack systems
-- exploring AI + systems
-- hanging out with my friends
+<sub>say hi</sub> **yechancho** <sub>@ npm</sub>
 
----
-
-## ✿ links
-
-[LinkedIn](https://www.linkedin.com/in/yechancho5)  
----
-
-## ✿ now
-
-trying to build cool stuff and look for an internship
-
----
-
-## ✿ terminal experience
+<br />
 
 ```bash
 npx yechancho
+```
+
+<sub>❀ · ✿ · ❀</sub>
+
+</div>
